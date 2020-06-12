@@ -1,4 +1,4 @@
-"# plattformio_seeedstudio_covid" 
+# plattformio_seeedstudio_covid
 
 Port of "Coronavirus Live Data using Wio Terminal" example from Arduino IDE to Plattform IO IDE
 (https://wiki.seeedstudio.com/Wio-Terminal-Reading-COVID19/).
